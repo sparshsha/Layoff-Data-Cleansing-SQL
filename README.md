@@ -1,4 +1,3 @@
-# Layoff-Data-Cleansing-SQL
 **Layoff Data Cleansing SQL Project**
 
 ---
